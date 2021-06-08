@@ -1,3 +1,0 @@
-package.json --> created from --> npm init -y --> type it in the console during the start of project
-
-install npm packages by going to npmjs.com
